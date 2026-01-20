@@ -1,17 +1,5 @@
 {
-  "name": "sjgowda",
-  "version": "1.0.0",
-  "description": "King of kings,greatest of greatest",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "sj"
-  ],
-  "author": "shashank sj",
-  "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "axios": "^1.13.2"
   }
 }
